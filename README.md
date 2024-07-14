@@ -1,6 +1,8 @@
 <html>
 
-<title>Arcane Technology Solutions</title>
+<head>
+  <title>Arcane Technology Solutions</title>
+</head>
 
 <body>
   <h1>Specialize in Various Engineering Solutions</h1>
