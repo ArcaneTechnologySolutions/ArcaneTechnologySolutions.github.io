@@ -3,9 +3,12 @@
 <head>
 <title>My First Webpage</title>
 <meta charset="UTF-8">
-<meta name="description" content="This This website is where individuals can learn about me and the services I offer.">.
-<meta name="author" content="Jorge Herrera">
+<meta name="description" content="This field contains information about your page. It is usually around two sentences long.">.
+<meta name="author" content="Conor Sheils">
 </header>
+
+
+Read more: https://html.com/#ixzz8fvT4xLhK
 
 <body>
   <h1>Arcane Technology Solutions</h1>
