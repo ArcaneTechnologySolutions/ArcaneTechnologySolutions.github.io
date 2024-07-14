@@ -1,12 +1,8 @@
 <html>
 
-<head>
-  <title>Arcane Technology Solutions</title>
-</head>
-
 <body>
-  <h1>Specialize in Various Engineering Solutions</h1>
-  <p>With over a decade of relevant experience I can help you by offering solutions to your efforts in the following areas:
+  <h1>Arcane Technology Solutions</h1>
+  <p>Greetings! I specialize in various areas of electronics and mechanical functions, with over a decade of relevant experience I can help you by offering solutions to your needs in the following areas:
 <ol>
   <li>Printed Circuit Board Assembly (PCBA)</li>
   <li>Electromechanical Assembly</li>
